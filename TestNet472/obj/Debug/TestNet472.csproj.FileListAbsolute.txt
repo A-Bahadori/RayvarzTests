@@ -1,0 +1,6 @@
+D:\Programming\Rayvarz\Tests\TestNet472\bin\Debug\TestNet472.exe
+D:\Programming\Rayvarz\Tests\TestNet472\bin\Debug\TestNet472.pdb
+D:\Programming\Rayvarz\Tests\TestNet472\obj\Debug\TestNet472.csproj.AssemblyReference.cache
+D:\Programming\Rayvarz\Tests\TestNet472\obj\Debug\TestNet472.csproj.CoreCompileInputs.cache
+D:\Programming\Rayvarz\Tests\TestNet472\obj\Debug\TestNet472.exe
+D:\Programming\Rayvarz\Tests\TestNet472\obj\Debug\TestNet472.pdb
